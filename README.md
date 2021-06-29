@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**jaenil/jaenil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Frontend Developer currently situated in India .
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning react js
@@ -13,7 +9,7 @@ Here are some ideas to get you started:
        1)You can reach me on discord at : JP1234#9518
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=react.js&logoColor=white" />

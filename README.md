@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react.js%20-%2320232a.svg?&style=for-the-badge&logo=react.js&logoColor=white" />
+<img align="left" alt="react" src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=react.js&logoColor=white" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="html" src="https://img.shields.io/badge/Html%20-%2343853D.svg?&style=for-the-badge&logo=Html&logoColor=white" />
 <img align="left" alt="css" src="https://img.shields.io/badge/CSS%20-%2343853D.svg?&style=for-the-badge&logo=CSS&logoColor=white" />

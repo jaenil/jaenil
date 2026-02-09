@@ -11,7 +11,7 @@
 
 - 🔥 **Ignus Pre-Registration System (Fork)**  
   👉 https://github.com/jaenil/Ignus-Pre-Reg  
-  Web-based pre-registration system used for fest/event workflow management.
+  Made the website for IIT Jodhpur's cultural fest IGNUS
 
 - 📚 **Library Management Application**  
   👉 https://github.com/jaenil/library_management  
@@ -29,11 +29,11 @@
 - 🟦 **Codeforces:** https://codeforces.com/profile/jp_1  
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jaenil?theme=dark&font=Fira%20Code" />
+  <img src="https://leetcard.jacoblin.cool/24KSjDLSfn?theme=dark&font=Fira%20Code" />
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jaenil&theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jp_1&theme=dark" />
 </p>
 
 ---

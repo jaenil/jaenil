@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaenil</h1>
 <h3 align="center">Currently a student at IIT Jodhpur</h3>
 
-- 🌱 I’m currently learning **Python**
 - 👨‍💻 All of my projects are available at [https://github.com/jaenil?tab=repositories](https://github.com/jaenil?tab=repositories)
 - 📫 How to reach me **jaenilparekh@gmail.com**
 

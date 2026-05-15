@@ -8,17 +8,19 @@
 
 <h3 align="left">Highlighted Projects:</h3>
 
-- 🔥 **Ignus Pre-Registration System (Fork)**  
+- **Ignus Pre-Registration System (Fork)**  
   👉 https://github.com/jaenil/Ignus-Pre-Reg  
   Made the website for IIT Jodhpur's cultural fest IGNUS
 
-- 📚 **Library Management Application**  
-  👉 https://github.com/jaenil/library_management  
+- **Library Management Application**  
+  👉https://github.com/jaenil/library_management  
   Full-stack application with user/admin roles, book issue/return, and database-backed operations.
 
-- 🧠 **DSA Project (CSL2020)**  
-  👉 https://github.com/jaenil/CSL2020-project  
-  Implementation-focused project showcasing **data structures and algorithms** concepts.
+- **Online Code Execution and Evaluation System**  
+  👉 https://github.com/jaenil/oceas  
+  Built a full-stack proctored online coding examination platform supporting role-based access control (Admin, Instructor,
+Student),real-timemulti-languagecodeexecutionviaJDoodleAPI,andclient-sidefacedetectionproctoringusingMediaPipe
+Tasks Vision with an exam-lock enforcement mechanism.
 
 ---
 

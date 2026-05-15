@@ -18,9 +18,7 @@
 
 - **Online Code Execution and Evaluation System**  
   👉 https://github.com/jaenil/oceas  
-  Built a full-stack proctored online coding examination platform supporting role-based access control (Admin, Instructor,
-Student),real-timemulti-languagecodeexecutionviaJDoodleAPI,andclient-sidefacedetectionproctoringusingMediaPipe
-Tasks Vision with an exam-lock enforcement mechanism.
+  Built a full-stack proctored online coding examination platform supporting role-based access control (Admin, Instructor,Student),real-time multi-language codeexecution via JDoodleAPI,and client-side face detection proctoring using MediaPipe Tasks Vision with an exam-lock enforcement mechanism.
 
 ---
 

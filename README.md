@@ -6,19 +6,35 @@
 
 ---
 
-<h3 align="left">Highlighted Projects:</h3>
+### 🚀 Highlighted Projects
 
-- **Ignus Pre-Registration System (Fork)**  
-  👉 https://github.com/jaenil/Ignus-Pre-Reg  
-  Made the website for IIT Jodhpur's cultural fest IGNUS
+**1. Ignus Pre-Registration System**  
+ https://github.com/jaenil/Ignus-Pre-Reg
 
-- **Library Management Application**  
-  👉https://github.com/jaenil/library_management  
-  Full-stack application with user/admin roles, book issue/return, and database-backed operations.
+- Developed the pre-registration website for IGNUS, IIT Jodhpur's annual cultural festival.
+- Built a platform to streamline participant registrations and simplify event-related workflows.
+- Focused on responsive design, user experience, and efficient registration management.
 
-- **Online Code Execution and Evaluation System**  
-  👉 https://github.com/jaenil/oceas  
-  Built a full-stack proctored online coding examination platform supporting role-based access control (Admin, Instructor,Student),real-time multi-language codeexecution via JDoodleAPI,and client-side face detection proctoring using MediaPipe Tasks Vision with an exam-lock enforcement mechanism.
+**2. Metaverse 2D**  
+ https://github.com/jaenil/metaverse-2d
+
+- Developed a 2D virtual environment designed for interactive multiplayer experiences.
+- Explored real-time communication and synchronization between users within shared virtual spaces.
+- Focused on building an engaging, interactive platform with scalable application architecture.
+
+**3. Decentralized Fiverr**  
+ https://github.com/jaenil/decentralized-fiverr
+
+- Developed a Web3-based freelancing marketplace inspired by Fiverr, leveraging blockchain technology.
+- Explored decentralized transactions and smart contracts to enable trustless interactions between clients and freelancers.
+- Focused on integrating blockchain functionality with a modern web application architecture.
+
+**4. Vercel**  
+ https://github.com/jaenil/vercel
+
+- Developed a cloud deployment platform inspired by Vercel to simplify application hosting and deployment.
+- Explored automated build pipelines, deployment workflows, and infrastructure management.
+- Focused on understanding cloud infrastructure, deployment automation, and scalable application hosting.
 
 ---
 
